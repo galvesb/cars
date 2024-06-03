@@ -1,0 +1,8 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+pytest-django
+kafka-python
+pytest
+gunicorn
